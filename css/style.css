@@ -64,20 +64,12 @@ p {
 @media (max-width: 768px) {
     .nav-list {
         flex-direction: column;
-        list-style:inside;
-        padding-left: 10px;
+        list-style: inside;
+        font-family: 6px;
     } 
-
-    header nav {
-        height: 20px;
-    }
 
     .logo {
         font-size: 4px;
-    }
-    
-    main {
-        margin-top: 120px;
     }
 }
 
