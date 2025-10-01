@@ -65,7 +65,15 @@ p {
     .nav-list {
         flex-direction: column;
         list-style:inside;
-        margin-right: 50px;
+        padding-left: 10px;
+    } 
+
+    header nav {
+        height: 20px;
+    }
+
+    .logo {
+        font-size: 10px;
     }
     
     main {
