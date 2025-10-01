@@ -65,6 +65,7 @@ p {
     .nav-list {
         flex-direction: column;
         list-style:inside;
+        margin-right: 50px;
     }
     
     main {
