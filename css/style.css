@@ -65,11 +65,11 @@ p {
     .nav-list {
         flex-direction: column;
         list-style: inside;
-        font-family: 6px;
+        font-size: 10px;
     } 
 
     .logo {
-        font-size: 4px;
+        font-size: 12px;
     }
 }
 
