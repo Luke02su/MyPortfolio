@@ -72,7 +72,10 @@ p {
     .logo {
         margin-top: 30dp;
         font-size: 12px;
-        position: left;
+    }
+
+    section {
+        margin-top: 80px;
     }
 }
 
